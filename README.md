@@ -8,8 +8,7 @@
 我是一名 **Golang 软件测试 / 质量工程化** 从业者，主要面向 **中台系统** 做接口质量保障、自动化验证流水线与稳定性治理：把“经验型测试”沉淀为“可复制的工程能力”。
 - 🎯 方向：测试平台研发 · 测试流程关联 · API 测试工程化 · CI 质量门禁 · 稳定性治理
 - 🧰 技术栈：Go · HTTP/API Testing · Mock/测试数据 · GitHub Actions/Jenkins · MySQL/Redis · Linux
-- ✍️ Blog：<https://shijianliangs-ai.github.io/>
-- 📮 Email：<shijianliangs@gmail.com>
+- 📮 Contact：<shijianliangs@gmail.com> · <https://github.com/shijianliangs>
 ---
 ## Now（最近在做）
 - 🧩 测试平台研发：回归能力服务化（任务编排、执行、报告、通知、可观测）
@@ -41,7 +40,3 @@
 - 接口测试：鉴权、幂等、重试策略、错误码规范、兼容性、依赖隔离、数据清理
 - CI 质量门禁：静态检查 → 单测 → 接口回归 → 报告/通知 → 阻断/放行策略
 - 可观测性：日志/指标/链路（辅助定位、复盘与防再发）
----
-## Contact
-- Email：<shijianliangs@gmail.com>
-- GitHub：<https://github.com/shijianliangs>
