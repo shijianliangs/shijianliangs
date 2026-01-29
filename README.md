@@ -23,9 +23,10 @@
 - 问题定位与防再发：基于日志/指标/链路协作定位，推动根因修复、监控与流程改进
 ---
 ## Latest posts
+- 2026-01-29｜[LLM-as-Judge 在测试工程化中的落地：从用例生成到可审计的质量门禁](https://shijianliangs-ai.github.io/2026/01/29/2026-01-29-llm-as-judge-for-qa/)
 - 2026-01-29｜[从 0 搭建 Clawdbot（Gateway + WebChat + Telegram/WhatsApp）](https://shijianliangs-ai.github.io/articles/how-to-setup-clawdbot.html)
 - 2025-08-08｜[AI驱动的测试自动化：未来已来](https://shijianliangs-ai.github.io/articles/ai-driven-testing-automation.html)
-- 2025-08-08｜[测试用例设计方法：从理论到实践](<https://shijianliangs-ai.github.io/articles/test-case-design-methods.html>)
+- 2025-08-08｜[测试用例设计方法：从理论到实践](https://shijianliangs-ai.github.io/articles/test-case-design-methods.html)
 ---
 ## Featured projects
 - Blog / Notes：<https://shijianliangs-ai.github.io/> — 软件测试方法、用例设计、工程化实践沉淀
