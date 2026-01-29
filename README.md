@@ -5,6 +5,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=flat&logo=githubactions&logoColor=white)
 ![Observability](https://img.shields.io/badge/Observability-8b5cf6?style=flat)
 ![AI Testing](https://img.shields.io/badge/AI%20%26%20Testing-f97316?style=flat)
+
 我是一名 **Golang 软件测试 / 质量工程化** 从业者，主要面向 **中台系统** 做接口质量保障、自动化验证流水线与稳定性治理：把“经验型测试”沉淀为“可复制的工程能力”。
 - 🎯 方向：测试平台研发 · 测试流程关联 · API 测试工程化 · CI 质量门禁 · 稳定性治理
 - 🧰 技术栈：Go · HTTP/API Testing · Mock/测试数据 · GitHub Actions/Jenkins · MySQL/Redis · Linux
