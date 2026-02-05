@@ -23,11 +23,11 @@
 - 问题定位与防再发：基于日志/指标/链路协作定位，推动根因修复、监控与流程改进
 ---
 ## Latest posts
+- 2026-02-05｜[给 LLM 测试加一道“Flakiness Firewall”：用可重复性检测 + 稳健聚合，把随机性挡在 CI 之外](https://shijianliangs-ai.github.io/2026/02/05/2026-02-05-ai-flakiness-firewall/)
 - 2026-02-04｜[用 Playwright Trace 给“LLM 驱动的 UI 测试”做可回放取证：让 flaky 变得可诊断](https://shijianliangs-ai.github.io/2026/02/04/2026-02-04-llm-e2e-tests-with-playwright-traces/)
 - 2026-02-03｜[用“契约测试”把 AI Agent/MCP 工具调用测稳：一份 QA/平台工程实践指南](https://shijianliangs-ai.github.io/2026/02/03/2026-02-03-contract-tests-for-ai-agents-with-mcp/)
 - 2026-02-02｜[Schema-First 的 LLM JSON 合同测试：把“结构化输出”做成可回归的门禁（含 Mermaid 流程图 + 反例库）](https://shijianliangs-ai.github.io/2026/02/02/2026-02-02-schema-first-contract-tests-for-llm-json/)
 - 2026-02-01｜[把 LLM 功能当成“可回归”的产品：在 CI 里跑 Evals 的最小闭环（含门禁与漂移监控）](https://shijianliangs-ai.github.io/2026/02/01/2026-02-01-ci-evals-for-llm-features/)
-- 2026-01-31｜[用“变异测试”给 Prompt/Eval 找盲区：让 LLM 评测也有 Mutation Score](https://shijianliangs-ai.github.io/2026/01/31/2026-01-31-mutation-testing-for-prompt-evals/)
 ---
 ## Featured projects
 - Blog / Notes：<https://shijianliangs-ai.github.io/> — 软件测试方法、用例设计、工程化实践沉淀
